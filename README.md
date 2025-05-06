@@ -7,7 +7,7 @@ I'm currently studying DevOps Engineering. I'm passionate about sharing knowledg
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I studying DevOps Engineering at Tech-World-With Nana Bootcamp.
+- 💡 Fun fact: I'm studying DevOps Engineering at Tech-World-With Nana Bootcamp.
 - 🌱 I learnt shell scripting, bash, linux, git, and learning jenkins, ansible, terraform, aws etc. I will be showcasing my hands-on projects on my page.
 - 😊 I’m looking for help with open source projects, entry-level opportunities in cloud engineering and junior devops roles.
 - 💼 Job interests: Solutions Architect, Cloud Engineer, DevOps Engineer (Junior Level).
